@@ -1,0 +1,2 @@
+home.htmlまでの絶対パスをchromeに貼り付けると見れるよ
+またはhome.htmlをクリックして開くアプリをchromeに指定すると見れる
